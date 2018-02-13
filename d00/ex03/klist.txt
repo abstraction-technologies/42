@@ -1,0 +1,5 @@
+Credentials cache: API:5098
+        Principal: rde-kwaa@WETHINKCODE.CO.ZA
+
+  Issued                Expires               Principal
+Feb 13 09:46:15 2018  Feb 13 19:46:15 2018  krbtgt/WETHINKCODE.CO.ZA@WETHINKCODE.CO.ZA
